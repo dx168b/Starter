@@ -1,3 +1,8 @@
 This The Starter Device project
 
+This program monitors the voltage reduction on the car battery and provides additional energy when the voltage drops. 
+This device is designed to facilitate starting the engine in the case of a battery discharge.
+
+Schematic design will be added later.
+
 Project writted in AVR Studio 4 with WinAVR GCC compiler
